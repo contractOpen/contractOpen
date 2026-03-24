@@ -26,6 +26,7 @@
 </div>
 
 ## THKING PLAN
+```text
 ┌─────────────────────────────────────────────┐
 │              人类研究者                       │
 │         (设定研究目标、监督安全)               │
@@ -48,6 +49,7 @@
 │              实验环境/硬件                    │
 │        （VR 头显原型、电路、组件）              │
 └─────────────────────────────────────────────┘
+```
 
 虚拟还是实体,一个拥有人类形态的物体，一颗机械的心脏,我不认同这样的产品活跃在人类聚集的社会场所当中是合适的.
 
@@ -62,8 +64,7 @@
 
 思则得之,不思则不得也. 现在先做些实验吧!!! 在没人向你分配骡子的时候,先创建一个
 
-
-
+```text
 ┌─────────────────────────────────────────────┐
 │            Human Researcher                 │
 │      (Set goals, supervise safety)          │
@@ -90,6 +91,7 @@
 │        (VR headset prototype, circuits,     │
 │         components)                         │
 └─────────────────────────────────────────────┘
+```
 
 Virtual or physical? An object with human form, a mechanical heart — I do not think such a product is suitable to operate in spaces where humans gather socially.
 
@@ -133,4 +135,3 @@ I like building small systems that can actually run in the wild.
 
 - GitHub: `@contractOpen`
 - X / Telegram / Discord: to be added
-
